@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/iOS18_Hyperlink_Single_Press_Issue.props" />
+</Project>

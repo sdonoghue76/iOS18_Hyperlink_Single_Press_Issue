@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/donyf3/RiderProjects/iOS18_Hyperlink_Single_Press_Issue/iOS18_Hyperlink_Single_Press_Issue/obj/Debug/net8.0-android/scopedcss/bundle/iOS18_Hyperlink_Single_Press_Issue.styles.css",
+      "PackagePath": "staticwebassets/iOS18_Hyperlink_Single_Press_Issue.styles.css"
+    },
+    {
+      "Id": "/Users/donyf3/RiderProjects/iOS18_Hyperlink_Single_Press_Issue/iOS18_Hyperlink_Single_Press_Issue/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/Users/donyf3/RiderProjects/iOS18_Hyperlink_Single_Press_Issue/iOS18_Hyperlink_Single_Press_Issue/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/donyf3/RiderProjects/iOS18_Hyperlink_Single_Press_Issue/iOS18_Hyperlink_Single_Press_Issue/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/donyf3/RiderProjects/iOS18_Hyperlink_Single_Press_Issue/iOS18_Hyperlink_Single_Press_Issue/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/Users/donyf3/RiderProjects/iOS18_Hyperlink_Single_Press_Issue/iOS18_Hyperlink_Single_Press_Issue/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "obj/Debug/net8.0-android/staticwebassets/msbuild.build.iOS18_Hyperlink_Single_Press_Issue.props",
+      "PackagePath": "build\\iOS18_Hyperlink_Single_Press_Issue.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0-android/staticwebassets/msbuild.buildMultiTargeting.iOS18_Hyperlink_Single_Press_Issue.props",
+      "PackagePath": "buildMultiTargeting\\iOS18_Hyperlink_Single_Press_Issue.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0-android/staticwebassets/msbuild.buildTransitive.iOS18_Hyperlink_Single_Press_Issue.props",
+      "PackagePath": "buildTransitive\\iOS18_Hyperlink_Single_Press_Issue.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0-android/staticwebassets/msbuild.iOS18_Hyperlink_Single_Press_Issue.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

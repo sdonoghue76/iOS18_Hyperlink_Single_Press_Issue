@@ -1,0 +1,8 @@
+﻿<maui:MauiWinUIApplication
+    x:Class="iOS18_Hyperlink_Single_Press_Issue.WinUI.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:maui="using:Microsoft.Maui"
+    xmlns:local="using:iOS18_Hyperlink_Single_Press_Issue.WinUI">
+
+</maui:MauiWinUIApplication>
